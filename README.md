@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Antriksh Chourasia
-- 👀 I wanna be capable of building a large scale big data pipeline all by myself.
-- 🌱 I’m currently learning Kafka, Docker and Airflow.
-- 💞️ I’m looking to collaborate on building simple yet powerful applications that would solve/automate complex tasks.
+- 👀 I'm interested in big data technology.
+- 🌱 I’m currently learning Kafka, Docker Airflow and Spark.
+- 💞️ I’m looking to collaborate on building simple yet powerful applications that would automate complex tasks.
 - 📫 Reach me through email- antrikshhii17@gmail.com
 
 <!---
