@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Antriksh Chourasia
 - 👀 I'm interested in big data technology.
 - 🌱 I’m currently learning Kafka, Airflow and Spark.
-- 💞️ I’m looking to contribute any project that deals with data pipeline preferably big data.
+- 💞️ I’m looking to contribute to any project that deals with data pipeline preferably using big data.
 - 📫 Reach out to me through email- antrikshhii17@gmail.com
 
 <!---
